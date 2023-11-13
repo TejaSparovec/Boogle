@@ -1,0 +1,32 @@
+/* vsi h1 naslovi bodo vijolični*/
+h1 {
+    color:blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+
+h2{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+h3{
+    color:blue;
+    text-decoration: underline;
+}
+
+#rdeca {
+    color: red;
+}
+
+.modra{
+    color:blue
+}
+
+.big{
+    font-size: 35px;
+}
+
+img{
+    width: 250;
+}
